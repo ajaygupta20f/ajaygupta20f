@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there, I'm Ajay!</h1>
-<h3 align="center">Passionate Java Developer from India</h3>
+<h3 align="center">Passionate Web Developer from India</h3>
 
 
 - 🔭 I’m currently working on LMS-Plateform-App
@@ -23,18 +23,13 @@
    <a href="https://www.geeksforgeeks.org/user/shivamkumarmdee/">
     <img src="https://img.shields.io/badge/gfg-purple?style=for-the-badge&logo=gfg&logoColor=white%22"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
 </div>
 
  <h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,html,css,saas" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,saas" />
   </a>
 </p>
 
@@ -48,27 +43,21 @@
 <h3 align="left">Backend Development:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,sverlet" />
   </a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,eclipse" />
   </a>
 </p>
 
 
 <!-- Display GitHub stats in a cool way -->
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiku3203&show_icons=true&locale=en&layout=compact" alt="amiku3203" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiku3203&show_icons=true&locale=en" alt="amiku3203" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiku3203&" alt="amiku3203" />
-</p>
+![Ajay's GitHub states](https://github-readme-stats.vercel.app/api?username=ajaygupta20f&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygupta20f&theme=dark)
