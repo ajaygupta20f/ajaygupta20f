@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on LMS-Platform-App
 - 🌱 I’m currently Learning Advanced java
-- 💬 Ask me about React, JavaScript, Core Java, C++, Sql, Oops, DSA. 
+- 💬 Ask me about React, JavaScript, Core Java, C++, Sql, Oops, DSA.
 
 - 📫 How to reach me: [ajaygupta912098@gmail.com](mailto:ajaygupta912098@gmail.com)
 
