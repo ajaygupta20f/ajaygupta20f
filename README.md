@@ -2,8 +2,8 @@
 <h3 align="center">Passionate Web Developer from India</h3>
 
 
-- 🔭 I’m currently working on LMS-Plateform-App
-- 🌱 I’m currently Learning Advance java
+- 🔭 I’m currently working on LMS-Platform-App
+- 🌱 I’m currently Learning Advanced java
 - 💬 Ask me about React, JavaScript, Core Java, C++, Sql, Oops, DSA. 
 
 - 📫 How to reach me: [ajaygupta912098@gmail.com](mailto:ajaygupta912098@gmail.com)
